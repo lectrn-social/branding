@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="1500"
+   height="500"
+   viewBox="0 0 396.87499 132.29167"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:800;font-size:50.8px;line-height:1.25;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Ultra-Bold';stroke-width:0.264583"
+       x="116.59885"
+       y="84.814835"
+       id="text12"><tspan
+         x="116.59885"
+         y="84.814835"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         id="tspan14"><tspan
+           id="tspan16"
+           style="font-size:50.8px;stroke-width:0.264583">Lectrn</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:800;font-size:10.5833px;line-height:1.25;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Ultra-Bold';stroke-width:0.264583"
+       x="123.99625"
+       y="100.0881"
+       id="text28"><tspan
+         id="tspan26"
+         x="123.99625"
+         y="100.0881"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Merriweather Sans';-inkscape-font-specification:'Merriweather Sans Bold';stroke-width:0.264583">A social network for humans.</tspan></text>
+  </g>
+</svg>
