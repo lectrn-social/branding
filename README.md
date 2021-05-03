@@ -1,6 +1,6 @@
 # Lectrn Branding
 
-![Logo](https://github.com/lectrn/branding/raw/main/icon/png/icon_bg.png)
+<img src="https://github.com/lectrn/branding/raw/main/icon/png/icon_bg.png" width="128">
 
 ## Directories
 
